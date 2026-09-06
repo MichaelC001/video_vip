@@ -1,8 +1,20 @@
-# 🎬 全网VIP视频免费解析脚本
+<div align="center">
+
+<img src="./assets/banner.webp" alt="全网VIP视频免费破解 —— 去除广告 · 解锁会员限制 · 畅享高清体验" width="100%">
+
+# 🎬 全网 VIP 视频免费解析脚本
+
+**多接口智能解析 · 自动匹配选集 · 长期维护更新 · 完全免费**
+
+[![GitHub Stars](https://img.shields.io/github/stars/88lin/video_vip?style=flat&logo=github&label=Stars&color=f5c518)](https://github.com/88lin/video_vip/stargazers)
+[![License: GPL-3.0](https://img.shields.io/badge/License-GPL--3.0-1f6feb.svg)](https://www.gnu.org/licenses/gpl-3.0.txt)
+[![下载脚本](https://img.shields.io/badge/%E4%B8%8B%E8%BD%BD%E8%84%9A%E6%9C%AC-%E7%82%B9%E5%87%BB%E5%AE%89%E8%A3%85-2ea44f)](https://cdn.jsdelivr.net/gh/88lin/video_vip@main/video_vip.user.js)
 
 **如果这个项目对你有帮助，请给一个 ⭐ Star 支持一下，开源不易，您的支持是我更新的动力！**
 
-爱发电：https://ifdian.net/a/xiaozero
+💖 **[爱发电 · 赞助作者](https://ifdian.net/a/xiaozero)**
+
+</div>
 
 ## 💖 赞助商
 
